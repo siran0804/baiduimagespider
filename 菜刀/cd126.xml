@@ -1,0 +1,26 @@
+<annotation>
+	<folder>菜刀</folder>
+	<filename>cd126.jpg</filename>
+	<path>C:\Users\TN\Desktop\untitled1\菜刀\cd126.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>113</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knief</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>16</ymin>
+			<xmax>149</xmax>
+			<ymax>68</ymax>
+		</bndbox>
+	</object>
+</annotation>
